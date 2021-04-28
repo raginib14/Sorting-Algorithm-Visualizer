@@ -1,7 +1,7 @@
-# Sorting-Visualizer
+# Sorting Algorithm Visualizer
 
 ## General info
-Different Sorting Algorithms visualised by using bar-graph representation.
+Different Sorting Algorithms are visualised by using bar-graph representation.
 	
 ## Technologies
 Project is created with:
